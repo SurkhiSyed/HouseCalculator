@@ -1,0 +1,10 @@
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\bin\Debug\HousePlanner.exe.config
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\bin\Debug\HousePlanner.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\bin\Debug\HousePlanner.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.csproj.AssemblyReference.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.Properties.Resources.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.csproj.GenerateResource.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.csproj.CoreCompileInputs.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\HousePlanner\HousePlanner\obj\Debug\HousePlanner.HouseCalculator1.resources
